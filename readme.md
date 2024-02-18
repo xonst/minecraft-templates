@@ -1,6 +1,6 @@
 # Minecraft Templates
 
-Welcome to the Minecraft Templates repository! Here, you'll find a comprehensive collection of templates covering blocks, entities, and scripts tailored for Minecraft enthusiasts and creators alike. Whether you're a seasoned Minecraft player looking to enhance your gameplay experience or a mod developer seeking customizable assets, this repository offers a diverse range of templates to meet your needs.
+Welcome to the Minecraft Templates repository! Here, you'll find a comprehensive collection of templates covering blocks, entities, and scripts tailored for Minecraft enthusiasts and creators alike.
 
 ## Usage
 
